@@ -24,7 +24,7 @@ A diferencia de la implementación por arreglos, el Trie Map utiliza mapas para 
 
 Al crear un nodo, se le asignará como atributo un mapa vacío, el cual tendrá como llave la letra que se desea asignarle, y esta apuntará a un nuevo nodo que se desee instanciar. De esta forma, se logrará conservar una mayor cantidad de recursos, debido a que el mapa desde un inicio se instancia vacío, y esto se debe gracias a que los mapas son estructuras de datos dinámicas.
 
-Implementando el Trie Map en código C++, se obtendría un código eficiente que se encuentra en el archivo Trie_Map.
+Implementando el Trie Map en código C++, se obtendría un código eficiente que se encuentra en el archivo Trie_Map.cpp.
 
 Y al igual que en el Trie Array, la complejidad algoritmica con la que se accede a un dato es:
 
