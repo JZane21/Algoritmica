@@ -14,6 +14,11 @@ int numeroConexiones;
 void Prim(int verticeInicial){
     colaPrioridad.insert(make_pair(0, verticeInicial));
     memset(visitados, false, sizeof(visitados));
+    for (int i = 0; i < 100000; i++)
+    {
+        pesosOrigenes[i] = -1;
+    }
+    
     conectado[verticeInicial]=true;
     while (!colaPrioridad.empty())
     {
@@ -34,7 +39,7 @@ void Prim(int verticeInicial){
                 if(!visitados[verticeVecino]){
                     // printf("[peso:%d, nodoVecino:%d] ",pesoVecino,verticeVecino);
                     if(origenes[verticeVecino]==0 || (pesoVecino<pesosOrigenes[verticeVecino]
-                    && pesosOrigenes[verticeVecino]!=0)){
+                    && pesosOrigenes[verticeVecino]!=-1)){
                         origenes[verticeVecino]=vertice;
                         pesosOrigenes[verticeVecino]=pesoVecino;
                     }
