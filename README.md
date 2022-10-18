@@ -9,3 +9,7 @@ Cada sección se encuentra acompañada de archivos README, los cuales dan una br
 * [Segment Tree](https://github.com/JZane21/Algoritmica/tree/main/Estructura_de_datos/Segment_Tree)
 * [Trie](https://github.com/JZane21/Algoritmica/tree/main/Estructura_de_datos/Trie)
 * [Union-Find](https://github.com/JZane21/Algoritmica/tree/main/Estructura_de_datos/Union_Find)
+
+## Backtracking:
+
+* [Backtracking - Good Morning](https://github.com/JZane21/Algoritmica/tree/main/Backtracking)
