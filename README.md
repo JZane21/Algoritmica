@@ -13,3 +13,20 @@ Cada sección se encuentra acompañada de archivos README, los cuales dan una br
 ## Backtracking:
 
 * [Backtracking - Good Morning](https://github.com/JZane21/Algoritmica/tree/main/Backtracking)
+
+## Busqueda Binaria:
+
+* [Binary Search](https://github.com/JZane21/Algoritmica/tree/main/Busqueda_Binaria)
+
+## Programacion Dinamica:
+
+* [Digit DP](https://github.com/JZane21/Algoritmica/tree/main/Programacion_Dinamica/Digit_DP)
+* [Floyd Warshall](https://github.com/JZane21/Algoritmica/tree/main/Programacion_Dinamica/Floyd_Warshall)
+* [Longest Increasing Subsequence](https://github.com/JZane21/Algoritmica/tree/main/Programacion_Dinamica/Longest_Increasing_Subsequence)
+* [Rod Cutting](https://github.com/JZane21/Algoritmica/tree/main/Programacion_Dinamica/Rod_Cutting)
+* [Subset Sum](https://github.com/JZane21/Algoritmica/tree/main/Programacion_Dinamica/Subset_Sum)
+
+## Teoria de Grafos:
+
+* [Kruskal](https://github.com/JZane21/Algoritmica/tree/main/Teoria_de_Grafos/Kruskal)
+* [Prim](https://github.com/JZane21/Algoritmica/tree/main/Teoria_de_Grafos/Prim)
