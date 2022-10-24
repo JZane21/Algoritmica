@@ -16,6 +16,10 @@ $$ O(n) = n^2 $$
 
 Donde n: número de vértices
 
+Esto se debe a que:
+
+![alg1](https://user-images.githubusercontent.com/82000556/197447760-9dea826d-5f75-43ee-9da6-639d453c0bf0.jpg)
+
 ### Bibliografía
 
 * Techie Delight. Consultado el: 23-10-2022. Problema de corte de varilla. Obtenido de: https://www.techiedelight.com/es/rod-cutting/
