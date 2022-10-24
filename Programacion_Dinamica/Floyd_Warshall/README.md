@@ -14,6 +14,10 @@ $$ O(n) = n^3 $$
 
 Donde n: número de vértices
 
+Esto se debe a que:
+
+![f0](https://user-images.githubusercontent.com/82000556/197447636-93c76a1d-7191-4325-9ddb-49b511328782.jpg)
+
 ### Bibliografía
 *	Cormen, T. 2009. Introduction to Algorithms. Massachusetts Institute of Technology. https://drive.google.com/file/d/1IlIbcGDqnAZe442uNAvw2xHkDCjqn5jV/view
 *	Cimat. Consultado el: 23-10-2022. Algoritmos para caminos más cortos para todos los pares de vértices comp-420. Obtenido de: https://www.cimat.mx/~cesteves/cursos/algoritmos/pdf/ASSP_FloydWarshall.pdf
