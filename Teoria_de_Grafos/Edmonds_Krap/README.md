@@ -14,7 +14,7 @@ $Nota:$ Cabe mencionar que las aristas tienen peso, y además son dirigidas. En 
 
 * Este proceso debe repetirse hasta llegar al nodo final donde se desea evaluar el máximo flujo.
 
-* Al llegar al nodo donde se desea evaluar el máximo flujo, se verifica el camino de nodos que se usó para llegar hasta ahí. Luego, se halla la arista con menor peso de dicho camino, ya que este peso se sumará a la cantidad del máximo flujo de agua que habrá llegado al nodo final. Sin embargo, hay que restarle a todos los pesos de las aristas el peso menor, con el fin de reducir la cantidad de agua que puede circular a través de esas aristas. Si el peso de una arista llega a ser $0$, ya no se la debe usar como parte de un camino cualquiera para llegar al nodo final.
+* Al llegar al nodo donde se desea evaluar el máximo flujo, se verifica el camino de nodos que se usó para llegar hasta ahí. Luego, se halla la arista con menor peso de dicho camino, ya que este peso se sumará a la cantidad del máximo flujo de agua que habrá llegado al nodo final. Sin embargo, hay que restarle a todos los pesos de las aristas el peso menor, con el fin de reducir la cantidad de agua que puede circular a través de esas aristas. Si el peso de una arista llega a ser $0$, ya no se la debe usar como parte de un camino cualquiera para llegar al nodo final, debido a que el objetivo del algoritmo es evaluar la cantidad de agua que va desde un punto inicial a uno final a través de "cañerías" con espacio limitado.
 
 * Una vez terminado este proceso, se lo deberá repetir las veces que sean necesarias, hasta que todas las aristas por las cuales se pueda viajar al nodo final tengan peso $0$. Llegado ese momento, se deberá mostrar la cantidad del máximo flujo de agua que llegó al nodo final.
 
@@ -25,6 +25,7 @@ La complejidad algorítmica de este proceso resulta en:
 $$ O(n) = V*E^2 $$
 
 Donde $V$ : número de vertices
+
 Donde $E$ : número de aristas
 
 ### Conclusión
