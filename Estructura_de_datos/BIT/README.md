@@ -40,6 +40,6 @@ Si deseamos obtener el resultado de una operación básica como la suma dentro d
 
 * https://www.geeksforgeeks.org/binary-indexed-tree-or-fenwick-tree-2/
 
-### Ejercicio
+## Ejercicio
 
 * [CTRICK - Card Trick](https://www.spoj.com/problems/CTRICK/)
