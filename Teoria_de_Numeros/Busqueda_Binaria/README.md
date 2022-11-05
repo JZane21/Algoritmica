@@ -18,6 +18,10 @@ $$ O(n) = log_2(n)$$
 
 Donde $n$: número de elementos del arreglo
 
+### Ejercicio
+
+* [BSEARCH1 - Binary search](https://www.spoj.com/problems/BSEARCH1/en/)
+
 ### Conclusión
 
 En el caso de que quisiéramos encontrar un elemento en específico dentro de un arreglo de números, o comprobar si este existe, uno podría decir que la búsqueda secuencial podría ser la más eficiente, pero si el arreglo se encontrase ordenado, la búsqueda binaria sería mucho más eficiente y rápida llegado el momento de encontrar el valor que queramos hallar.
