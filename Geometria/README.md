@@ -86,6 +86,10 @@ $$ productoVectorial = (punto2_Vector1.x - punto1.x) * (punto3_Vector2.y - punto
 
 De esta forma, se obtendría el producto cruz de dos vectores usando coordenadas.
 
+## Ejercicio
+
+* [UVA PROBLEM 10432 – POLYGON INSIDE A CIRCLE SOLUTION](https://quickgrid.wordpress.com/2015/12/12/uva-problem-10432-polygon-inside-a-circle-solution/)
+
 ## Bibliografía
 
 * Las Matemáticas de Jalón. 2017. Como sacar un vector a partir de 2 puntos. https://www.youtube.com/watch?v=2kLZgScz6As
