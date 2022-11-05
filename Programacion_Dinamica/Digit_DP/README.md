@@ -32,6 +32,10 @@ Entre las posibles aplicaciones que podría tener el algoritmo Digital DP en nue
 
 En el caso de que quisiéramos encontrar alguna coincidencia de algún dígito de un documento, cuya identificación se basa en valores numéricos, podríamos hacer el uso de Digit DP para lograr ese cometido. De igual forma, si se quisiera realizar un buscador que pueda buscar coincidencias en base a valores numéricos, podríamos usar este algoritmo con el fin de optimizar ese proceso de búsqueda.
 
+## Ejercicio
+
+* [NUMTSN - 369 Numbers](https://www.spoj.com/problems/NUMTSN/en/)
+
 ### Bibliografía
 
 Hegde, S. 2020. Programación dinámica de dígitos. Medium. https://medium.com/@sachinhegde0411/digit-dynamic-programming-c526dbfcbd74
