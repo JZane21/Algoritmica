@@ -36,6 +36,10 @@ Si quisiéramos encontrar un subconjunto del original, el cual logre formar la s
 
 Si quisiéramos simplificar en cierta forma el Subset-Sum Problem con casos específicos, con el fin de generar de forma eficiente subconjuntos de un conjunto en base a la suma de ciertos elementos del mismo, la utilización de la Programación Dinámica junto con el concepto de Top Down para lograrlo.
 
+### Ejercicio
+
+* [C. Subset Sums](https://codeforces.com/problemset/problem/348/C)
+
 ### Bibliografía
 
 * CS Dojo. 2018. Dynamic Programming Interview Question #1 – Find Sets Of Numbers That Add Up to 16. https://www.youtube.com/watch?v=nqlNzOcnCfs
