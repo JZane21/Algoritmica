@@ -6,7 +6,6 @@ Backtracking es una forma distinta de plantear nuestros algoritmos, de forma de 
 
 La forma en que lo hace es a través de la recursividad, solo que esta se encuentra bajo una o más condiciones, las cuales evitan que el mismo programa ejecute procesos innecesarios, como lo es aplicar el llamado recursivo con datos que se sabe que darán una solución incorrecta al final. Pero los llamados recursivos que se consideren correctos generarán un árbol con el pasar del tiempo, el cual representará el o los caminos que el programa siguió para encontrar la solución. Una vez que se encuentra la solución esperada, el algoritmo se detendrá y empezará a subir por el árbol, indicando el proceso que siguió para encontrar la solución que se esperaba.
 
-
 ### ¿Cúando usar Backtracking?
 
 Su uso se encuentra enfocado en problemas específicos que requieran una gran optimización para llegar a una solución. En algunos ejemplos de su uso, podemos encontrarnos con el problema de enumeración, el juego de sudoku, o los movimientos de una reina en la tabla de ajedrez, ya que los tres problemas necesitan encontrar una solución que podría demorar un tiempo exponencial en hallarse en caso de que no se use backtracking correctamente.
@@ -20,3 +19,7 @@ El uso de la técnica de Backtracking para optimizar problemas que usen recursiv
 ### Bibliografía
 
 * Datta, S. 2020. Backtracking Algorithms. Baeldung. https://www.baeldung.com/cs/backtracking-algorithms
+
+### Ejercicio
+
+* [UVA 574](https://www.redgreencode.com/more-recursive-backtracking-uva-574/)
