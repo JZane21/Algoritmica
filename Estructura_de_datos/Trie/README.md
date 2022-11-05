@@ -35,3 +35,7 @@ Donde **'n'** = tamaño de la palabra a buscar
 ### Conclusión
 
 Dependiendo de la situación en la que queramos usar la estructura de datos Trie, tendremos que analizar tanto las ventajas como desventajas que nos ofrecen el Trie Array y Trie Map
+
+### Ejercicio
+
+* [B. A lot of games](https://codeforces.com/problemset/problem/455/B)
