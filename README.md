@@ -14,9 +14,9 @@ Cada sección se encuentra acompañada de archivos README, los cuales dan una br
 
 * [Backtracking - Good Morning](https://github.com/JZane21/Algoritmica/tree/main/Backtracking)
 
-## Busqueda Binaria:
+## Teoría de Números:
 
-* [Binary Search](https://github.com/JZane21/Algoritmica/tree/main/Busqueda_Binaria)
+* [Búsqueda Binaria](https://github.com/JZane21/Algoritmica/tree/main/Teoria_de_Numeros/Busqueda_Binaria)
 
 ## Programacion Dinamica:
 
@@ -30,3 +30,7 @@ Cada sección se encuentra acompañada de archivos README, los cuales dan una br
 
 * [Kruskal](https://github.com/JZane21/Algoritmica/tree/main/Teoria_de_Grafos/Kruskal)
 * [Prim](https://github.com/JZane21/Algoritmica/tree/main/Teoria_de_Grafos/Prim)
+
+## Geometría
+
+* [Geometría](https://github.com/JZane21/Algoritmica/tree/main/Geometria)
