@@ -32,6 +32,10 @@ Donde $E$ : número de aristas
 
 Si se deseara encontrar la cantidad de agua que puede llegar desde una presa de agua hasta las distintas edificaciones que puede tener una ciudad de forma eficiente, se utilizaría el algoritmo de Edmonds Krap para cumplir ese cometido.
 
+### Ejercicio
+
+* [FASTFLOW - Fast Maximum Flow](https://www.spoj.com/problems/FASTFLOW/en/)
+
 ### Bibliografía
 
 * Geeks for Geeks. Actualizado el: 21 de Junio del 2022. Ford-Fulkerson Algorithm for Maximum Flow Problem. Obtenido de: https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/?ref=gcse
