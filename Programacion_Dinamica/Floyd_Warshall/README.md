@@ -18,7 +18,11 @@ Esto se debe a que:
 
 ![f0](https://user-images.githubusercontent.com/82000556/197447636-93c76a1d-7191-4325-9ddb-49b511328782.jpg)
 
-### Bibliografía
+## Ejercicio
+
+* [104 - Arbitrage - Solution](https://github.com/jordifierro/uva/blob/master/solutions/104.cc)
+
+## Bibliografía
 *	Cormen, T. 2009. Introduction to Algorithms. Massachusetts Institute of Technology. https://drive.google.com/file/d/1IlIbcGDqnAZe442uNAvw2xHkDCjqn5jV/view
 *	Cimat. Consultado el: 23-10-2022. Algoritmos para caminos más cortos para todos los pares de vértices comp-420. Obtenido de: https://www.cimat.mx/~cesteves/cursos/algoritmos/pdf/ASSP_FloydWarshall.pdf
 *	Geeks for Geeks. Actualización: 31 agosto de 2022. Floyd Warshall Algorithm | DP-16. Obtenido de: https://www.geeksforgeeks.org/floyd-warshall-algorithm-dp-16/
