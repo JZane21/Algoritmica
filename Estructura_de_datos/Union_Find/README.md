@@ -33,3 +33,8 @@ Si queremos que varios elementos se encuentren entre sí, y queremos hallarlos a
 ## Bibliografía
 
 * Programdor clic. Consultado el: 04-10-2022. Explicación detallada del algoritmo Union-Find. Obtenido de: https://programmerclick.com/article/43171057033/
+
+## Ejercicio
+
+* [11987 - Almost Union-Find - answer](http://uva.outsbook.com/problemhints/problemdetails/119/11987)
+* [11987 - Almost Union-Find](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=3138)
