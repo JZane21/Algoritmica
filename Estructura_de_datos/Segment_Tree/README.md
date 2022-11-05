@@ -51,3 +51,7 @@ Si deseamos hallar una suma, resta, u otra operación que haya sido mencionada p
 ## Bibliografía
 
 * ProgComp. Consultado el: 04-10-2022. Segment Tree. Obtenido de: https://progcomp.cl/segmenttree
+
+## Ejercicio
+
+* [D.Xenia and Bit Operations](https://codeforces.com/problemset/problem/339/D)
