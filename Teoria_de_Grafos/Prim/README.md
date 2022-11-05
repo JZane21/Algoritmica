@@ -32,6 +32,10 @@ Si tuviéramos un sistema de distribución de agua, el cual brinda agua a todas 
 
 Si se desea encontrar varias opciones de conectar a todos los elementos de un sistema, de forma que las conexiones entre estos sea la más sencilla de implementar llegado el momento de construir o reconstruir el sistema, el algoritmo Prim debería ser considerada como la mejor alternativa en estas situaciones.
 
+### Ejercicio
+
+* [Country Roads](https://lightoj.com/problem/country-roads)
+
 ### Bibliografía
 
 * Fredy Reconocer. 2020. Algoritmo de PRIM en problemas reales. https://www.youtube.com/watch?v=Bk2vvnJX5Ug
