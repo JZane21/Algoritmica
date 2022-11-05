@@ -26,6 +26,10 @@ Si se requiere distribuir gas de forma eficiente en una zona de una ciudad en es
 
 Como se pudo observar, el algoritmo Kruskal ayuda a mantener todas las partes de un sistema conectadas entre sí con el menor peso posible, dependiendo de lo que se esté considerando como peso dentro del sistema. Y si se desea hallar una solución parecida a la que se mencionó en el ejemplo, Kruskal definitivamente sería una opción fiable.
 
+### Ejercicio
+
+* [CSTREET - Cobbled streets](https://www.spoj.com/problems/CSTREET/en/)
+
 ### Bibliografía
 
 * Geeks for Geeks. Actualizado el: 16-10-2022. Algoritmo de árbol de expansión mínimo de Kruskal | Codicioso Algo-2. Obtenido de: https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/
